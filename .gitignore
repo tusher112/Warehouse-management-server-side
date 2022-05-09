@@ -1,0 +1,92 @@
+[
+      {
+        "name": "Nissan Patrol",
+        "price": "TK.25,10000/=",
+        "supplierName":"Nissan",
+        "revname": "Jack Thomas",
+        "quantity":"10",
+        "description":"2022 Nissan Patrol 5.6 V8 LE 4WD 7AT or R 20,999pm",
+        "review":"I loved this car and it is my first bike, giving good mileage approx 40kmpl, and it is very comfortable to ride.",
+        "img":"https://ezhire.ae/lp/images/carimages/nissanprotal.jpg"
+      },
+      {
+        "name": "BMW 4 Series",
+        "price": "TK.75,00000/=",
+        "supplierName":"BMW",
+        "revname": "Abraham ch.",
+        "quantity":"9",
+        "description":"BMW has confirmed that it is investigating the 1500cc segment and that it will make an announcement sooner or later",
+        "review":"This is a very amazing car, it cannot be compared to any other car. The looks are good and amazing.",
+        "img":"https://ezhire.ae/lp/images/carimages/bmw4.png"
+      },
+      {
+        "name": "Audi A6",
+        "price": "TK.32,40000/=",
+        "supplierName":"Audi",
+        "revname": "Charlie chap.",
+        "quantity":"12",
+        "description":"Audi has launched a new Deluxe variant of the Audi A6 for 2022. It comes wrapped in three new liveries and packs a couple of new features.",
+        "review":"Best in the segment, Best riding performance, Comfort could be more better, and Mileage should be more.",
+        "img":"https://ezhire.life/media/2020/11/08/b2d945fc-b04.png"
+      },
+      {
+        "name": "Range Rover 2022",
+        "price": "TK.34,10000/=",
+        "supplierName":"Range Rover",
+        "revname": "Marie n.",
+        "quantity":"8",
+        "description":"Range Rover has hiked prices across its lineup, ranging from as low as  34,00000 . To know the latest prices of your favourite Car,",
+        "review":"This car has an awesome look and a front LED light available. This is a very comfortable car. My personal choice.",
+        "img":"https://ezhire.ae/lp/images/carimages/range-rover.jfif"
+      },
+      {
+        "name": "Rolls Royce Phantom",
+        "price": "TK.52,00000/=",
+        "supplierName":"Roll Royce",
+        "revname": "Mack john",
+        "quantity":"10",
+        "description":"The updated Royal Enfield Classic 350 is powered by the Meteor 350’s 1800cc single-cylinder counterbalanced air-cooled engine, churning out 20.2PS at 6100rpm and 27Nm at 4000rpm.",
+        "review":"This car is a good and overall a good experience. Mileage is average, there is less vibration at high speed. Handling is good, for me, it is quite comfortable and if I compare this with other bikes it is too good.",
+        "img":"https://ezhire.ae/lp/images/carimages/rolls-royce-phantom.png"
+      },
+      {
+        "name": "Lamborghini Huracan Spyder",
+        "price": "TK.82,520000/=",
+        "supplierName":"Lamborghini",
+        "revname": "Pooran D.",
+        "quantity":"5",
+        "description":"It’s powered by a 1800cc, single-cylinder engine putting out 26PS and 21.1Nm. The motor comes mated to a six-speed gearbox.",
+        "review":"Have been riding this beautiful machine for a month now. Really happy with the overall performance.",
+        "img":"https://ezhire.ae/lp/images/carimages/menu_huracan_evo.png"
+      },
+      {
+        "name": "Mercedes G63",
+        "price": "TK.19,95000/=",
+        "supplierName":"Nercedes",
+        "revname": "Anderli k.",
+        "quantity":"18",
+        "description":"The marcedes G63 is one of the most popular commuters available in India. A next-generation iteration of the Pulsar 150 was spotted testing, ",
+        "review":"This car has almost every feature that a normal rider needs such as Tachometer and a digital speedometer. ",
+        "img":"https://ezhire.ae/lp/images/carimages/MercedesG63.png"
+      },
+      {
+        "name": "toyota vertion 2019",
+        "price": "TK.21,90000/=",
+        "supplierName":"toyota",
+        "revname": "Kadir sh.",
+        "quantity":"20",
+        "description":"The toyota was launched in BD at BDT 21,90000 . in December 2021, limited to just 200 units.",
+        "review":"The riding experience is very good. It's fun to ride this Car.",
+        "img":"https://www.transautomobile.com/img/liste/toyota-land-cruiser-prado-150-4x4-4x42.jpg"
+      },
+      {
+        "name": "Honda F342",
+        "price": "TK.14,70000/=",
+        "supplierName":"Honda",
+        "revname": "Devit mack",
+        "quantity":"15",
+        "description":"The Honda F324’s price is BDT 14,70000 (for the base rear drum brake variant). The most notable feature  is the segment-first all-LED lighting system.",
+        "review":"I am using this  since Oct 2020. The power of the bike is decent at that price.",
+        "img":"https://www.transautomobile.com/img/liste/honda-E-1-242.jpg"
+      }
+    ]
